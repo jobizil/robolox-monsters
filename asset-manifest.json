@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/robolox-monsters/static/css/main.0e508646.chunk.css",
+    "main.js": "/robolox-monsters/static/js/main.b5b3ed90.chunk.js",
+    "main.js.map": "/robolox-monsters/static/js/main.b5b3ed90.chunk.js.map",
+    "runtime-main.js": "/robolox-monsters/static/js/runtime-main.75424b4c.js",
+    "runtime-main.js.map": "/robolox-monsters/static/js/runtime-main.75424b4c.js.map",
+    "static/js/2.4b1feca7.chunk.js": "/robolox-monsters/static/js/2.4b1feca7.chunk.js",
+    "static/js/2.4b1feca7.chunk.js.map": "/robolox-monsters/static/js/2.4b1feca7.chunk.js.map",
+    "static/js/3.8a33ee79.chunk.js": "/robolox-monsters/static/js/3.8a33ee79.chunk.js",
+    "static/js/3.8a33ee79.chunk.js.map": "/robolox-monsters/static/js/3.8a33ee79.chunk.js.map",
+    "index.html": "/robolox-monsters/index.html",
+    "static/css/main.0e508646.chunk.css.map": "/robolox-monsters/static/css/main.0e508646.chunk.css.map",
+    "static/js/2.4b1feca7.chunk.js.LICENSE.txt": "/robolox-monsters/static/js/2.4b1feca7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75424b4c.js",
+    "static/js/2.4b1feca7.chunk.js",
+    "static/css/main.0e508646.chunk.css",
+    "static/js/main.b5b3ed90.chunk.js"
+  ]
+}
